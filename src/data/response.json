@@ -1,0 +1,84 @@
+{
+  "services": [
+    {
+      "head": null,
+      "id": 1,
+      "name": "Проф. осмотр",
+      "node": 0,
+      "price": 100,
+      "sorthead": 20
+    },
+    {
+      "head": null,
+      "id": 2,
+      "name": "Хирургия",
+      "node": 1,
+      "price": 0,
+      "sorthead": 10
+    },
+    {
+      "head": 2,
+      "id": 3,
+      "name": "Удаление зубов",
+      "node": 1,
+      "price": 0,
+      "sorthead": 10
+    },
+    {
+      "head": 3,
+      "id": 4,
+      "name": "Удаление зуба",
+      "node": 0,
+      "price": 800,
+      "sorthead": 10
+    },
+    {
+      "head": 3,
+      "id": 5,
+      "name": "Удаление 8-ого зуба",
+      "node": 0,
+      "price": 1000,
+      "sorthead": 30
+    },
+    {
+      "head": 3,
+      "id": 6,
+      "name": "Удаление осколка зуба",
+      "node": 0,
+      "price": 2000,
+      "sorthead": 20
+    },
+    {
+      "head": 2,
+      "id": 7,
+      "name": "Хирургические вмешательство",
+      "node": 0,
+      "price": 200,
+      "sorthead": 10
+    },
+    {
+      "head": 2,
+      "id": 8,
+      "name": "Имплантация зубов",
+      "node": 1,
+      "price": 0,
+      "sorthead": 20
+    },
+    {
+      "head": 8,
+      "id": 9,
+      "name": "Коронка",
+      "node": 0,
+      "price": 3000,
+      "sorthead": 10
+    },
+    {
+      "head": 8,
+      "id": 10,
+      "name": "Слепок челюсти",
+      "node": 0,
+      "price": 500,
+      "sorthead": 20
+    }
+  ]
+}
